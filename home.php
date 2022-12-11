@@ -26,7 +26,7 @@
 	</head>
 	<body>
             <div class="header">
-                <img style="height:90px;width: 300px;" src="logo.jpg">
+                <img style="height:90px;width: 300px;" src="../user/logo.jpg">
                 <span><h3 class="head" >Housing Authority Automation System</h3></span>
             </div>
 						<div class="header">
