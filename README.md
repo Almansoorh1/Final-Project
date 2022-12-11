@@ -9,3 +9,6 @@ It is intend to provide on;ine platform for selling, buying and lodgming complai
 
 
 It has an admin login, registered user login and free user login (Free users can see few portions without need to login)
+
+
+It has entity realtionship diagram and databse file (.sql file) included in the main branch
